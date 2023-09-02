@@ -1,3 +1,4 @@
 # Hangman
-![alt text](C:\Users\nisac\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2023-09-02 155858.png)
+![alt text](![image](https://github.com/nisacetinel06/Hangman/assets/138515503/12c242b0-66fa-4681-98d8-626932dde9b8)
+)
 
